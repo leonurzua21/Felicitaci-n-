@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+p{
+    font-size: 70pt;
+    color:#ffffff;
+    padding: auto;
+    font-family:cursive;
+}
+#Btn{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    color:#fb6f37 ;
+    border-color:#cd7f49 ;
+    font-size: 60pt;
+    font-family:cursive;
+    transform:translate(-100%,-100%);
+} 
